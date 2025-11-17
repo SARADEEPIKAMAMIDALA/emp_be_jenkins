@@ -83,7 +83,7 @@
     </dependencies>
     
     <build>
-    <finalName>emp-backfinal-final1</finalName>
+    <finalName>emp-backfinal-final2</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
